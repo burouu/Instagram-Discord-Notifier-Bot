@@ -1,0 +1,5 @@
+discord.py
+instagrapi
+deep-translator
+python-dotenv
+PyNaCl
